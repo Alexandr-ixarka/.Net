@@ -1,0 +1,12 @@
+E:\Git_clone\project\Project_text\WorkText.BLL\bin\Debug\WorkText.BLL.dll
+E:\Git_clone\project\Project_text\WorkText.BLL\bin\Debug\WorkText.BLL.pdb
+E:\Git_clone\project\Project_text\WorkText.BLL\obj\Debug\WorkText.BLL.csprojAssemblyReference.cache
+E:\Git_clone\project\Project_text\WorkText.BLL\obj\Debug\WorkText.BLL.csproj.CoreCompileInputs.cache
+E:\Git_clone\project\Project_text\WorkText.BLL\obj\Debug\WorkText.BLL.dll
+E:\Git_clone\project\Project_text\WorkText.BLL\obj\Debug\WorkText.BLL.pdb
+D:\Git_clone\project\Project_text\WorkText.BLL\bin\Debug\WorkText.BLL.dll
+D:\Git_clone\project\Project_text\WorkText.BLL\bin\Debug\WorkText.BLL.pdb
+D:\Git_clone\project\Project_text\WorkText.BLL\obj\Debug\WorkText.BLL.csprojAssemblyReference.cache
+D:\Git_clone\project\Project_text\WorkText.BLL\obj\Debug\WorkText.BLL.csproj.CoreCompileInputs.cache
+D:\Git_clone\project\Project_text\WorkText.BLL\obj\Debug\WorkText.BLL.dll
+D:\Git_clone\project\Project_text\WorkText.BLL\obj\Debug\WorkText.BLL.pdb
